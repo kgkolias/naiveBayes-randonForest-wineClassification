@@ -1,5 +1,3 @@
-The 'ML-COURSEWORK-KIMON-ILIOPOULOS-KONSTANTINOS-GKOLIAS' folder consists of two files:
-
 1) The 'machine_learning_coursework.m' file which contains the matlab code
 for both Naive Bayes and Random Forest models. 
 The code is separated in sections that we would propose to be ran sequentially.
